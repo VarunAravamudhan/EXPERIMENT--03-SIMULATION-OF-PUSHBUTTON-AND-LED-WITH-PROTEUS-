@@ -112,7 +112,9 @@ void led_blink()
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
- ![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a3c0d3b0-3782-4533-a930-36994ca334ee)
+
+
 
  
  
