@@ -105,6 +105,8 @@ void led_blink()
 
 ## Output screen shots of proteus  :
 
+
+
 ![image](https://github.com/user-attachments/assets/cf7a53a2-ef13-4268-8795-a6aada2a4c73)
 
 
